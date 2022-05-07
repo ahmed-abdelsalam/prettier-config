@@ -1,0 +1,22 @@
+{
+  "name": "prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier Configuration",
+  "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/ahmed-abdelsalam/prettier-config/issues"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "Ahmed Abdelsalam <engahmedabdelsalam918@gmail.com>",
+  "license": "MIT",
+  "repository": "git@github.com:ahmed-abdelsalam/prettier-config.git",
+  "devDependencies": {
+    "@types/prettier": "^2.6.0",
+    "prettier": "^2.6.0"
+  },
+  "peerDependencies": {
+    "prettier": "^2.6.0"
+  }
+}
